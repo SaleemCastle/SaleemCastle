@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SaleemCastle
-- 👀 I’m interested in mobile app development and gaming
-- 🌱 I’m currently learning flutter, dart and more in depth understanding of react and react native
+- 👀 I’m interested in mobile and web app development and also backend development.
+- 🌱 I’m currently learning laravel, python and more in depth understanding of React and react native
 - 💞️ I’m looking to collaborate on any project that is of benefit to society that presents an oppurtunity for growth 
-- 📫 How to reach me 
+- 📫 ssmic.castle@gmail.com
 
 <!---
 SaleemCastle/SaleemCastle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
