@@ -10,7 +10,7 @@ Web/Mobile App Design enthusiast. I have been a software engineer for the past 3
 * ✉️  You can contact me at [ssmic.castle@gmail.com](mailto:ssmic.castle@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects that I can learn and meet new people
-* ⚡  I'm a Manchester United Fan and still hope to learn to fly "a plane" someday.
+* ⚡  I'm a big Manchester United Fan | GGMU and an aspiring pilot (:airplane:).
 
 <a href="https://www.twitter.com/sacasper71" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sacasper71?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
